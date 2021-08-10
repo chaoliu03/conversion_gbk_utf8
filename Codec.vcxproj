@@ -148,7 +148,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Codec.cpp" />
-    <ClCompile Include="EncodingConversion.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EncodingConversion.h" />
